@@ -13,7 +13,6 @@ public class Card {
        this.faceName = faceName;
        setSuit(suit);
        setFaceValue(value);
-       System.out.println("");
    }
    
    /**
